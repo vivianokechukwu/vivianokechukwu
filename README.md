@@ -1,5 +1,14 @@
 <h1>Hi, I'm Vivian! </h1>
 
+I bridge the gap between business objectives and compliance obligations. As a Governance, Risk, and Compliance (GRC) Analyst, I specialize in translating regulatory requirements into practical strategies that strengthen security, reduce risk exposure, and ensure operational resilience. With a sharp eye for gaps and a structured approach to risk management, I help organizations not only meet compliance standards but also build trust and long-term sustainability.
+
+<h2> 🔑 Core Skills</h2>
+
+- Risk Management & Assesment<br> 
+- Policy development/Compliance Frameworks<br> 
+- Data Privacy & Security<br> 
+- Audit & Assurance Stakeholder Engagement
+ 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Vulnerability Risk Assessment](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
@@ -7,26 +16,18 @@
 
 <h2> Certifications</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+CISSP | CRISC - In progress<br>
+Completion of personalized GRC Training/Mentorship - Bugfreak Academy
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2> Ethical Standards & Confidentiality</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+✉️ vivianokechukwu76@gmail.com<br>
+[X]: https://x.com/vivianlyric?s=21&t=E5WRKNoOClMRV1Rql2IGUg<br>
+[linkedin]: http://linkedin.com/in/vivian-okechukwu-3bb5b8277
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
