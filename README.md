@@ -15,7 +15,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [IDOR Vulnerability in HR Portal](https://github.com/vivianokechukwu/IDOR-Vulnerability-in-HR-Portal/tree/main)
 - [IT Governance Assessment using COBIT](https://github.com/vivianokechukwu/GovernanceAssessment/tree/main)
 - [IT Risk Management Using COBIT](https://github.com/vivianokechukwu/RiskManagement/tree/main)
-- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
+- [Data Breach Risk Assessment](https://github.com/vivianokechukwu/RiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 
