@@ -12,7 +12,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [RCE Vulnerability in Apache Struts](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
-- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
+- [IDOR Vulnerability in HR Portal]https://github.com/vivianokechukwu/IDOR-Vulnerability-in-HR-Portal/tree/main
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
