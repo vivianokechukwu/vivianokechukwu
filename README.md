@@ -16,6 +16,8 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [IT Governance Assessment using COBIT](https://github.com/vivianokechukwu/GovernanceAssessment/tree/main)
 - [IT Risk Management Using COBIT](https://github.com/vivianokechukwu/RiskManagement/tree/main)
 - [Data Breach Risk Assessment](https://github.com/vivianokechukwu/RiskAssessment/tree/main)
+- [IT Process Efficiency with COBIT](https://github.com/vivianokechukwu/IT-process-efficiency)
+- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 
