@@ -20,6 +20,8 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [Cloud Data Security & Compliance](https://github.com/vivianokechukwu/CloudDataSecurity)
 - [Cybersecurity Risk Assessment](https://github.com/vivianokechukwu/CybersecurityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
+- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
+- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 
 
 <h2> Certifications</h2>
