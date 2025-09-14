@@ -24,7 +24,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [ISO 27001 Aligned InfoSec Policies](https://github.com/vivianokechukwu/InfoSec-Policies)
 - [ISO 27001 Internal Audit](https://github.com/vivianokechukwu/InternalAudit)
 - [NIST CSF Implementation for a Startup](https://github.com/vivianokechukwu/NIST-CSF)
-- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
+- [NIST based Response to Cyberattack](https://github.com/vivianokechukwu/NIST-Simulation)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 
