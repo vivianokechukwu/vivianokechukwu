@@ -22,7 +22,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [GRC Tools for Global Privacy Compliance](https://github.com/vivianokechukwu/PrivacyCompliance/tree/main)
 - [GRC Tool for Healthcare Compliance](https://github.com/vivianokechukwu/GRC-Tools/tree/main)
 - [ISO 27001 Aligned InfoSec Policies](https://github.com/vivianokechukwu/InfoSec-Policies/tree/main)
-- [ISO 27001 Internal Audit](httpshttps://github.com/vivianokechukwu/InternalAudit/tree/main)
+- [ISO 27001 Internal Audit](https://github.com/vivianokechukwu/InternalAudit/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 
 
