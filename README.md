@@ -19,7 +19,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [IT Process Efficiency with COBIT](https://github.com/vivianokechukwu/IT-process-efficiency)
 - [Cloud Data Security & Compliance](https://github.com/vivianokechukwu/CloudDataSecurity)
 - [Cybersecurity Risk Assessment](https://github.com/vivianokechukwu/CybersecurityRiskAssessment/tree/main)
-- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
+- [GRC Tools for Global Privacy Compliance](https://github.com/vivianokechukwu/PrivacyCompliance/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 - [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
 
