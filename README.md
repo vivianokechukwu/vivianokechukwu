@@ -30,7 +30,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [GRC Tool for Financial Compliance](https://github.com/vivianokechukwu/ToolEvaluation)
 - [Cybersecurity Risk Assessment - ISO 27001](https://github.com/vivianokechukwu/Cybersecurity)
 - [NIST CSF - Supply Chain Risk Assessment](https://github.com/vivianokechukwu/NIST-Framework)
-- [Hello World!](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment/tree/main)
+- [PCI DSS Compliance Assessment](https://github.com/vivianokechukwu/compliance-assessment)
 
 
 <h2> Certifications</h2>
