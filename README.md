@@ -2,14 +2,22 @@
 
 I bridge the gap between business objectives and compliance obligations. As a Governance, Risk, and Compliance (GRC) Analyst, I specialize in translating regulatory requirements into practical strategies that strengthen security, reduce risk exposure, and ensure operational resilience. With a sharp eye for gaps and a structured approach to risk management, I help organizations not only meet compliance standards but also build trust and long-term sustainability.
 
-<h2> 🔑 Core Skills</h2>
+<h2> 🔑 Core Competencies</h2>
 
-- Risk Management & Assesment<br> 
-- Policy development/Compliance Frameworks<br> 
-- Data Privacy & Security<br> 
-- Audit & Assurance Stakeholder Engagement
+- GRC Strategy & Enterprise Integration
+-	Regulatory Compliance & Audit Readiness
+-	Policy Development & Governance Frameworks
+-	Risk Assessment & Treatment Planning
+-	Third-Par ty & Supply Chain Risk Management
+-	Enterprise & Cybersecurity Risk Management
+-	Data Privacy & Protection Compliance
+-	Security Awareness & Org. Training Programs
+-	Business Continuity & Incident Response Planning
+-	IT Compliance & Controls Assurance
+-	Documentation & Reporting Standards
+
  
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Key Deliverables:</h2>
 
 - [RCE Vulnerability in Apache Struts](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment)
 - [IDOR Vulnerability in HR Portal](https://github.com/vivianokechukwu/IDOR-Vulnerability-in-HR-Portal)
@@ -39,6 +47,8 @@ CISSP | CRISC - In progress<br>
 Completion of personalized GRC Training/Mentorship - Bugfreak Academy
 
 <h2> Ethical Standards & Confidentiality</h2>
+
+Note: This portfolio highlights selected aspects of my professional experience and competencies as a GRC (Governance, Risk, and Compliance) expert. While it showcases key frameworks, regulations, and compliance initiatives I’ve worked with, it does not represent the full scope of my capabilities. My expertise extends beyond what is presented here.
 
 
 <h2> 🤳 Connect with me:</h2>
