@@ -36,7 +36,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [Integration of PCI-DSS Requirements into SDLC](https://github.com/vivianokechukwu/PCI-DSS-SDLC)
 - [Tabletop Exercise for Cardholder Data Breach](https://github.com/vivianokechukwu/TabletopExercise)
 - [Evaluation of GRC Tools for a Bank](https://github.com/vivianokechukwu/ToolEvaluation)
-- [Cybersecurity Risk Assessment - ISO 27001](https://github.com/vivianokechukwu/Cybersecurity)
+- [Risk Assessment & Treatment Plan Using ISO 27001 Guidelines](https://github.com/vivianokechukwu/Cybersecurity)
 - [NIST CSF - Supply Chain Risk Assessment](https://github.com/vivianokechukwu/NIST-Framework)
 - [PCI DSS Compliance Assessment](https://github.com/vivianokechukwu/compliance-assessment)
 
