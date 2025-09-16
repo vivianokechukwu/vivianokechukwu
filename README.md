@@ -34,7 +34,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [Implementation of NIST CSF for a Tech Startup](https://github.com/vivianokechukwu/NIST-CSF)
 - [Incident Response to Ransomeware Attack Using NIST](https://github.com/vivianokechukwu/NIST-Simulation)
 - [Integration of PCI-DSS Requirements into SDLC](https://github.com/vivianokechukwu/PCI-DSS-SDLC)
-- [Simulated Cardholder Data Breach](https://github.com/vivianokechukwu/TabletopExercise)
+- [Tabletop Exercise for Cardholder Data Breach](https://github.com/vivianokechukwu/TabletopExercise)
 - [Evaluation of GRC Tools for a Bank](https://github.com/vivianokechukwu/ToolEvaluation)
 - [Cybersecurity Risk Assessment - ISO 27001](https://github.com/vivianokechukwu/Cybersecurity)
 - [NIST CSF - Supply Chain Risk Assessment](https://github.com/vivianokechukwu/NIST-Framework)
