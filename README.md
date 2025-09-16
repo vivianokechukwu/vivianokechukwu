@@ -24,7 +24,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [IT Governance Assessment](https://github.com/vivianokechukwu/GovernanceAssessment)
 - [Implementing IT Risk Management in a Healthcare Organization](https://github.com/vivianokechukwu/RiskManagement)
 - [Data Breach Risk Assessment for a Retail Company](https://github.com/vivianokechukwu/RiskAssessment)
-- [IT Process Efficiency with COBIT](https://github.com/vivianokechukwu/IT-process-efficiency)
+- [Strengthening Change Management in Manufacturing](https://github.com/vivianokechukwu/IT-process-efficiency)
 - [Cloud Data Security & Compliance](https://github.com/vivianokechukwu/CloudDataSecurity)
 - [Cybersecurity Risk Assessment](https://github.com/vivianokechukwu/CybersecurityRiskAssessment)
 - [GRC Tools for Global Privacy Compliance](https://github.com/vivianokechukwu/PrivacyCompliance)
