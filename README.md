@@ -35,7 +35,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [Incident Response to Ransomeware Attack Using NIST](https://github.com/vivianokechukwu/NIST-Simulation)
 - [Secure SDLC Integration - PCI DSS](https://github.com/vivianokechukwu/PCI-DSS-SDLC)
 - [Simulated Cardholder Data Breach](https://github.com/vivianokechukwu/TabletopExercise)
-- [GRC Tool for Financial Compliance](https://github.com/vivianokechukwu/ToolEvaluation)
+- [Evaluation of GRC Tools for a Bank](https://github.com/vivianokechukwu/ToolEvaluation)
 - [Cybersecurity Risk Assessment - ISO 27001](https://github.com/vivianokechukwu/Cybersecurity)
 - [NIST CSF - Supply Chain Risk Assessment](https://github.com/vivianokechukwu/NIST-Framework)
 - [PCI DSS Compliance Assessment](https://github.com/vivianokechukwu/compliance-assessment)
