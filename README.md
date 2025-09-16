@@ -29,7 +29,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [Cybersecurity Risk Assessment for Online Banking Platform](https://github.com/vivianokechukwu/CybersecurityRiskAssessment)
 - [Strategic Evaluation of GRC Tools for a FinTech Company](https://github.com/vivianokechukwu/PrivacyCompliance)
 - [Strategic Evaluation of GRC Tools for Healthcare Compliance](https://github.com/vivianokechukwu/GRC-Tools)
-- [ISO 27001 Aligned InfoSec Policies](https://github.com/vivianokechukwu/InfoSec-Policies)
+- [Development & Implementation of ISO 27001 Aligned InfoSec Policies](https://github.com/vivianokechukwu/InfoSec-Policies)
 - [ISO 27001 Internal Audit](https://github.com/vivianokechukwu/InternalAudit)
 - [NIST CSF Implementation for a Startup](https://github.com/vivianokechukwu/NIST-CSF)
 - [NIST based Response to Cyberattack](https://github.com/vivianokechukwu/NIST-Simulation)
