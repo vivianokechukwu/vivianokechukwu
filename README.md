@@ -19,26 +19,26 @@ I bridge the gap between business objectives and compliance obligations. As a Go
  
 <h2>👨‍💻 Key Deliverables:</h2>
 
-- [Risk Assessment & Prioritization for an E-Commerce Company](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment)
-- [Risk Assessment & Prioritization for a Mid-sized Financial Company](https://github.com/vivianokechukwu/IDOR-Vulnerability-in-HR-Portal)
-- [IT Governance Assessment](https://github.com/vivianokechukwu/GovernanceAssessment)
-- [Implementing IT Risk Management in a Healthcare Organization](https://github.com/vivianokechukwu/RiskManagement)
-- [Data Breach Risk Assessment for a Retail Company](https://github.com/vivianokechukwu/RiskAssessment)
-- [Strengthening Change Management in Manufacturing](https://github.com/vivianokechukwu/IT-process-efficiency)
-- [Data Breach Risk Assessment for a Financial Firm](https://github.com/vivianokechukwu/CloudDataSecurity)
 - [Cybersecurity Risk Assessment for Online Banking Platform](https://github.com/vivianokechukwu/CybersecurityRiskAssessment)
+- [Data Breach Risk Assessment for a Retail Company](https://github.com/vivianokechukwu/RiskAssessment)
+- [Risk Assessment & Prioritization for a Mid-sized Financial Company](https://github.com/vivianokechukwu/IDOR-Vulnerability-in-HR-Portal)
+- [PCI-DSS Compliance Assessment for a Retail Company's Payment System](https://github.com/vivianokechukwu/compliance-assessment)
+- [Integration of PCI-DSS Requirements into SDLC](https://github.com/vivianokechukwu/PCI-DSS-SDLC)
+- [Incident Response to Ransomeware Attack Using NIST](https://github.com/vivianokechukwu/NIST-Simulation)
+- [Enhancing Cybersecurity for a Supply Chain Company Using NIST CSF](https://github.com/vivianokechukwu/NIST-Framework)
+- [Data Breach Risk Assessment for a Financial Firm](https://github.com/vivianokechukwu/CloudDataSecurity)
+- [Implementing IT Risk Management in a Healthcare Organization](https://github.com/vivianokechukwu/RiskManagement)
+- [Internal Audit for ISO 27001 Implementation in a Healthcare Organization](https://github.com/vivianokechukwu/InternalAudit)
+- [Risk Assessment & Treatment Plan Using ISO 27001 Guidelines](https://github.com/vivianokechukwu/Cybersecurity)
+- [Development & Implementation of ISO 27001 Aligned InfoSec Policies](https://github.com/vivianokechukwu/InfoSec-Policies)
+- [Implementation of NIST CSF for a Tech Startup](https://github.com/vivianokechukwu/NIST-CSF)
+- [Evaluation of GRC Tools for a Bank](https://github.com/vivianokechukwu/ToolEvaluation)
 - [Strategic Evaluation of GRC Tools for a FinTech Company](https://github.com/vivianokechukwu/PrivacyCompliance)
 - [Strategic Evaluation of GRC Tools for Healthcare Compliance](https://github.com/vivianokechukwu/GRC-Tools)
-- [Development & Implementation of ISO 27001 Aligned InfoSec Policies](https://github.com/vivianokechukwu/InfoSec-Policies)
-- [Internal Audit for ISO 27001 Implementation in a Healthcare Organization](https://github.com/vivianokechukwu/InternalAudit)
-- [Implementation of NIST CSF for a Tech Startup](https://github.com/vivianokechukwu/NIST-CSF)
-- [Incident Response to Ransomeware Attack Using NIST](https://github.com/vivianokechukwu/NIST-Simulation)
-- [Integration of PCI-DSS Requirements into SDLC](https://github.com/vivianokechukwu/PCI-DSS-SDLC)
+- [Risk Assessment & Prioritization for an E-Commerce Company](https://github.com/vivianokechukwu/VulnerabilityRiskAssessment)
+- [IT Governance Assessment](https://github.com/vivianokechukwu/GovernanceAssessment)
+- [Strengthening Change Management in Manufacturing](https://github.com/vivianokechukwu/IT-process-efficiency)
 - [Tabletop Exercise for Cardholder Data Breach](https://github.com/vivianokechukwu/TabletopExercise)
-- [Evaluation of GRC Tools for a Bank](https://github.com/vivianokechukwu/ToolEvaluation)
-- [Risk Assessment & Treatment Plan Using ISO 27001 Guidelines](https://github.com/vivianokechukwu/Cybersecurity)
-- [Enhancing Cybersecurity for a Supply Chain Company Using NIST CSF](https://github.com/vivianokechukwu/NIST-Framework)
-- [PCI-DSS Compliance Assessment for a Retail Company's Payment System](https://github.com/vivianokechukwu/compliance-assessment)
 
 
 <h2> Certifications</h2>
@@ -47,6 +47,8 @@ CISSP | CRISC - In progress<br>
 Completion of personalized GRC Training/Mentorship - Bugfreak Academy
 
 <h2> Ethical Standards & Confidentiality</h2>
+
+To uphold the highest ethical standards and protect the confidentiality of client information, company names, sensitive data, and identifying details have been omitted. All content reflects my  professional contributions, methodologies, and outcomes in full compliance with non-disclosure agreements and professional integrity obligations.
 
 Note: This portfolio highlights selected aspects of my professional experience and competencies as a GRC (Governance, Risk, and Compliance) expert. While it showcases key frameworks, regulations, and compliance initiatives I’ve worked with, it does not represent the full scope of my capabilities. My expertise extends beyond what is presented here.
 
