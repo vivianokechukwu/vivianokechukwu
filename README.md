@@ -33,7 +33,7 @@ I bridge the gap between business objectives and compliance obligations. As a Go
 - [Internal Audit for ISO 27001 Implementation in a Healthcare Organization](https://github.com/vivianokechukwu/InternalAudit)
 - [Implementation of NIST CSF for a Tech Startup](https://github.com/vivianokechukwu/NIST-CSF)
 - [Incident Response to Ransomeware Attack Using NIST](https://github.com/vivianokechukwu/NIST-Simulation)
-- [Secure SDLC Integration - PCI DSS](https://github.com/vivianokechukwu/PCI-DSS-SDLC)
+- [Integration of PCI-DSS Requirements into SDLC](https://github.com/vivianokechukwu/PCI-DSS-SDLC)
 - [Simulated Cardholder Data Breach](https://github.com/vivianokechukwu/TabletopExercise)
 - [Evaluation of GRC Tools for a Bank](https://github.com/vivianokechukwu/ToolEvaluation)
 - [Cybersecurity Risk Assessment - ISO 27001](https://github.com/vivianokechukwu/Cybersecurity)
