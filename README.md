@@ -46,7 +46,7 @@ I’m a cybersecurity GRC professional who bridges security and business by alig
 
 - CRISC (Certified in Risk and Information Systems Control)<br>
 - CISSP (Certified Information Systems Security Professional)<br>
-- CGRM (Certified in Governance, Risk and Completion Mentorship - Bugfreak Academy
+- CGRM (Certified in Governance, Risk and Completion Mentorship) - Bugfreak Academy
 
 <h2> Ethical Standards & Confidentiality</h2>
 
